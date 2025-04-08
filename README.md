@@ -1,0 +1,3 @@
+# Cubeium
+
+A Minecraft seedmap
